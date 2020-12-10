@@ -9,8 +9,8 @@
 |_________________________________________________________|   
 
 **Requerimientos:**  
--XAMPP(Gestor Base de Datos)[https://www.apachefriends.org/es/download.html]  
--JDK version 14.0.1 [https://www.oracle.com/co/java/technologies/javase/jdk14-archive-downloads.html]  
+-XAMPP(Gestor Base de Datos)( [Descargar] )(https://www.apachefriends.org/es/download.html) 
+-JDK version 14.0.1 ( [Descargar] )(https://www.oracle.com/co/java/technologies/javase/jdk14-archive-downloads.html)
 
 **Instrucciones instalación:**  
 -Empezar servicio de MySQLy Apache en XAMPP   
